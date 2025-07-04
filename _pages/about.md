@@ -66,9 +66,9 @@ redirect_from:
 </div>
 
 <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 12px; margin: 15px 0;">
-  <img src="/images/l8.jpg" alt="生活片段8" style="width: 100%; height: 150px; object-fit: cover; border-radius: 8px;">
-  <img src="/images/l9.jpg" alt="生活片段9" style="width: 100%; height: 150px; object-fit: cover; border-radius: 8px;">
-  <img src="/images/l10.jpg" alt="生活片段10" style="width: 100%; height: 150px; object-fit: cover; border-radius: 8px;">
+  <img src="/images/l8.jpg" alt="生活片段8" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;">
+  <img src="/images/l9.jpg" alt="生活片段9" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;">
+  <img src="/images/l10.jpg" alt="生活片段10" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;">
 </div>
 
 <div style="display: flex; gap: 10px; margin: 15px 0; justify-content: space-between;">
