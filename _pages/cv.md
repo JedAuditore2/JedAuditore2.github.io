@@ -7,71 +7,137 @@ redirect_from:
   - /resume
 ---
 
-# Jiacheng Xue  
-**Telephone:** +86 187-2968-9067 | **Email:** jiachengxue2001@gmail.com
+# 熊杰  
+**电话:** 15664746727 | **邮箱:** 2716191411@qq.com | **意向城市:** 上海  
+**微信:** jedauditore | **出生年月|籍贯:** 2000-11|福建 宁德 | **岗位:** 机械结构工程师
 
 ---
 
-## Education  
+## 教育经历  
 
-**Xi’an Jiaotong University**  
-*Master of Mechanical Engineering, GPA: 3.53/4.00*  
-Shaanxi, China  
-*Sept. 2023 – present*
+**西安交通大学**  
+*机械工程专业硕士研究生*  
+实验室：现代设计及轴承转子系统教育部重点实验室（雷亚国院长团队）  
+研究方向：具身智能、信号处理、嵌入式软件开发、故障诊断  
+导师：李响（教授、国家级青年人才）  
+*2023年9月 – 2026年7月*
 
-**Xi’an Jiaotong University**  
-*Bachelor of Mechanical Engineering, GPA: 3.37/4.00*  
-Shaanxi, China  
-*Sept. 2019 – Jul. 2023*
-
----
-
-## Publications  
-
-- **Chi X.†, Xue J.†**, Jia L., *et al.* Machine Learning-Based Online Monitoring and Closed-Loop Controlling for 3D Printing of Continuous Fiber-Reinforced Composites. *Additive Manufacturing Frontiers* 2025;4:200196. doi: 10.1016/j.amf.2025.200196. *†Co-first authors.*
-- Wu L., **Xue J.**, Tian X., *et al.* 3D-printed Metamaterials with Versatile Functionalities. *Additive Manufacturing Frontiers* 2023;2:100091. doi: 10.1016/j.cjmeam.2023.100091.
-- Wu L., Lu Y., Li P., Wang Y., **Xue J.**, *et al.* Mechanical Metamaterials for Handwritten Digits Recognition. *Advanced Science* 2024;11:2308137. doi: 10.1002/advs.202308137.
-- Song X., Yan S., Wang Y., Zhang H., **Xue J.**, *et al.* Genetic algorithm-enabled mechanical metamaterials for vibration isolation with different payloads. *Journal of Materiomics* 2025;11:100944. doi: 10.1016/j.jmat.2024.100944.
+**西安交通大学**  
+*机械工程专业学士*  
+主要课程：机械设计基础、控制工程、线性代数、理论力学等  
+*2019年8月 – 2023年7月*
 
 ---
 
-## Research Experience  
+## 项目经历  
 
-### Online Monitoring and Closed-Loop Control of 3D Printing  
-*Sept. 2022 – Sept. 2023*  
-- Achieved recognition accuracies of 94.7% for pure material and 97.71% for continuous fiber-reinforced composite 3D printing.  
-- Increased the tensile strength and elastic modulus by 17.29 and 44.80 times.
+### 核心赛事项目：RoboMaster 机甲大师赛  
+*2020 - 2024赛季*  
+该竞赛为大疆主办的一项全球性的大学生机器人竞赛，比拼涵盖机械设计、嵌入式设计、导航、视觉识别等机器人技术。本人曾负责多届赛事中的工程机器人、英雄机器人、飞镖系统的机械结构研发。
 
-### Mobile Robotic Platform for Additive Manufacturing  
-*Apr. 2024 – Nov. 2025*  
-- Achieved an average positioning error of 1.41mm over a 200mm movement range  
-- Secured invention patent in China (No. 7846171) for 3D printing robot design
+#### 工程机器人  
+**2022赛季**  
+- 设计气动吸盘为核心的交互机构，负压可达76kpa，完全吸附耗时＜0.3s，持续工作时长≥20min。
+- 设计长行程抬升和伸缩机构，通过行程倍增机构实现机器人的大尺寸变形。
+- 设计基于麦克纳姆轮的全向移动底盘。
+**成果：** 获RoboMaster2022机甲大师对抗赛实战奖（工程机器人）一等奖；开源浏览量8600+。
 
-### Inverse Design of Mechanical Metamaterials Using Machine Learning  
-*Oct. 2024 – present*  
-- Attained exceptional R² accuracies of 99.62% in computational modeling and 86.99% in experimental validation  
-- Optimized inverse design results using prescribed weight vectors, balancing manufacturability and compactness.
+**2023赛季**  
+- 设计以多自由度机械臂和大尺寸变形机构为主体的完整机械结构，实现在大范围内灵活调整道具姿态。
+- 设计单手操作的多自由度控制台，用于操作机器人整体运动。
+**成果：** 获RoboMaster2023机甲大师对抗赛实战奖（工程机器人）二等奖。
+
+**2024赛季（技术顾问）**  
+- 制定项目研发计划，设计带有多自由度机械臂和龙门架结构的自动兑换方案。
+- 设计整体机械结构布局。
+**成果：** 获RoboMaster2024机甲大师对抗赛实战奖（工程机器人）一等奖。
+
+#### 飞镖系统  
+**2022赛季**  
+- 设计模块化镖体，降低成本，提高效率；使用ANSYS Fluent仿真保证弹体气动外形合理。
+- 设计飞镖发射架，以多级摩擦轮为加速机构，两级丝杠传动的发射架，解决晃动和姿态调整中的间隙问题。
+**成果：** 获RoboMaster2022机甲大师对抗赛实战奖（飞镖系统）二等奖。
+
+#### 英雄机器人发射机构  
+**2023赛季（本科毕业设计）**  
+- 提出拉长加速行程和加速中限位的创新点，设计三摩擦带发射机构。
+- 使用Simulink建立弹丸空中运动的物理模型并进行弹道轨迹仿真。
+**成果：** 获评A级毕业设计。
+
+**2024赛季（技术顾问）**  
+- 帮助迭代三摩擦带发射机构，形成二级六摩擦轮加速机构，解决发热、定位不准确等问题。
+**成果：** 校准后对20m外的15cm*15cm目标命中率可达80%以上，获RoboMaster2024机甲大师对抗赛实战奖（英雄机器人）一等奖。
 
 ---
 
-## Honors  
+## 硕士课题  
 
-- First-Class SMC Fellowship — *2021*  
-- Outstanding Student Leader Graduate of Xi’an Jiaotong University — *2023*  
-- First Prize in the RoboMaster National Robotics Competition — *2022, 2023 and 2024*
+**基于事件相机的机械装备微振动非接触式测量系统**  
+*2024.09 - 今*  
+基于事件相机的动态视觉信号（DVS）实现振动检测，结合机械臂的辅助功能、交互终端，形成一套非接触式的测振系统。
+
+- **动态视觉信号处理方法：**
+  - 提出针对DVS的时空维度密度聚类算法，噪声去除达82%以上。
+  - 设计振动重构算法，实现从DVS中提取机械结构微振动成分。
+  - 制定动态视觉测振标准方法，可稳定提取2~300Hz频段内振动特征。
+- **软硬件设计：**
+  - 设计符合工程应用场景的动态视觉测振边缘端设备。
+  - 实现机械臂辅助的动态视觉信号优化采集。
+  - 完成动态视觉测振软件，实现人机交互和实时时频域分析。
+
+**目前成果：**
+- 项目形成一套边缘端测振设备、动态视觉信号的降噪及振动分析算法及交互软件。
+- 国际会议论文（ICCRE）一篇：Automated Non-Contact Vibration Measurement with Dynamic Vision: Framework and Signal Component Analysis，第一作者，EI检索。
+- 申请专利一篇：基于事件相机数据统计的机械微振动视觉测量方法，第一作者，CN202410495511.9。
+- 申请软件著作一项：动态视觉非接触式实时振动测量系统，2025SR0245080。
 
 ---
 
-## Extracurricular Activities  
+## 专业技能  
 
-- Showcased machine learning-based inverse design of metamaterials at the 3rd China Metamaterials Conference, **Jiaxing, China** — *May 2024*  
-- Conducted research on robotics technologies during an internship at DJI, **Shenzhen, China** — *May 2024*  
-- Implemented motor Field-Oriented Control (FOC) algorithms during an internship at Xihu Interaction Company, **Hangzhou, China** — *Jul. 2024*  
-- Presented research at the 13th Asian-Australasian Conference on Composite Materials, **Kyoto, Japan** — *Aug. 2024*
+- **CAE/CAM软件：** 熟练掌握SolidWorks、AutoCAD；熟悉ANSYS Fluent、Blender。
+- **编程语言：** 熟练掌握C/C++；熟悉Python。
+- **嵌入式开发：** 熟练掌握ROS2、Mujoco、Qt（C++）；熟悉Linux、基于FreeRTOS的单片机开发。
+- **语言能力：** CET4 602分；CET6 469分。
 
 ---
 
-## Skills  
+## 主要获奖荣誉  
 
-- **Language:** English (TOEFL: 98)  
-- **Tools:** SOLIDWORKS, ABAQUS, PYTHON, STM32, Adobe Illustrator
+- 西安交大优秀社团组织干部  
+- RM2022机甲大师赛对抗赛全国一等奖  
+- 西安交大学业奖学金二等奖（硕士）  
+- RM2023机甲大师赛对抗赛全国一等奖  
+- 西安交大学业奖学金三等奖（本科）  
+- RM2024机甲大师赛对抗赛全国一等奖  
+- 西安交大优秀班级干部  
+- RM2022机甲大师赛对抗赛实战奖（工程机器人）全国一等奖  
+- RM2022机甲大师赛对抗赛实战奖（飞镖系统）全国二等奖  
+
+---
+
+## 校园经历  
+
+**队长 RoboMaster机器人队**  
+*2021.09 - 2022.08*  
+- 负责队伍竞赛规划、资金管理、项目管理。创新队伍财务管理方法、进度管理方法，提高研发效率。
+- 同时承担两项机器人研发项目和所有项目机械结构设计审核。
+- 实现从上赛季成绩不佳到全国一等奖的成绩突破。
+- 牵头建立西安五所高校组成的竞赛交流组织“西安联盟”，至今参与人数500+，定期组织交流活动。
+
+**顾问 RoboMaster机器人队**  
+*2022.09 - 今*  
+- 参与制定队伍赛季研发计划、财务计划。
+- 监督队伍研发进度管理，为队伍所有项目机械结构设计提供技术支持。
+- 在2023赛季担任工程机器人研发负责人。
+
+**学习委员 班级干部**  
+*2019.09 - 2020.09*  
+- 疫情期间自发组织班级同学参加线上自习活动，所在班级学业成绩在年级排名第一。
+- 组织班级同学和学校印刷店印刷教辅，将同学们购买教辅的价格打到了20%。
+- 工作期间获评优秀班级干部。
+
+**助理教师 大疆教育：疆来计划**  
+*2021.07 - 2021.08*  
+- 负责为营员进行机械结构设计方面的答疑；组织营员设计项目的机械加工装配；辅助各项活动开展。
+- 获疆来计划2021（西安交大）优秀助理教师。

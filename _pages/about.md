@@ -52,23 +52,23 @@ redirect_from:
 # 生活片段
 <!-- p1占一行 -->
 <div style="text-align: center; margin: 20px 0;">
-  <img src="/images/p1.png" alt="生活片段1" style="width: 600px; height: 265px; object-fit: cover; border-radius: 8px;">
+  <img src="/images/p1.png" alt="生活片段1" style="width: 600px; height: 240px; object-fit: cover; border-radius: 8px;">
 </div>
 
 <!-- p2占一行 -->
 <div style="text-align: center; margin: 20px 0;">
-  <img src="/images/p2.png" alt="生活片段2" style="width: 600px; height: 265px; object-fit: cover; border-radius: 8px;">
+  <img src="/images/p2.png" alt="生活片段2" style="width: 600px; height: 250px; object-fit: cover; border-radius: 8px;">
 </div>
 
 <!-- p3占一行 -->
 <div style="text-align: center; margin: 20px 0;">
-  <img src="/images/p3.png" alt="生活片段3" style="width: 600px; height: 350px; object-fit: cover; border-radius: 8px;">
+  <img src="/images/p3.png" alt="生活片段3" style="width: 600px; height: 340px; object-fit: cover; border-radius: 8px;">
 </div>
 
 <!-- p4 p5占一行 -->
 <div style="display: flex; gap: 20px; margin: 20px 0; justify-content: center;">
-  <img src="/images/p4.png" alt="生活片段4" style="width: 280px; height: 210px; object-fit: cover; border-radius: 8px;">
-  <img src="/images/p5.png" alt="生活片段5" style="width: 280px; height: 210px; object-fit: cover; border-radius: 8px;">
+  <img src="/images/p4.png" alt="生活片段4" style="width: 280px; height: 180px; object-fit: cover; border-radius: 8px;">
+  <img src="/images/p5.png" alt="生活片段5" style="width: 280px; height: 180px; object-fit: cover; border-radius: 8px;">
 </div>
 
 <!-- p6 p7 p8占一行 -->
