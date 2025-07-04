@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "dark"
-title                    : "Home"
+title                    : "主页"
 title_separator          : "-"
 name                     : &name "Jie Xiong"
 description              : &description "personal description"
@@ -24,11 +24,11 @@ repository               : "JedAuditore2/JedAuditore2.github.io"
 author:
   # Biographic information
   avatar           : "snow2.png"
-  name             : "Jie Xiong"
+  name             : "熊 杰"
   pronouns         : # example: "she/her"  
-  bio              : "Master student, ME, XJTU"
-  location         : "Xi'an, China"
-  employer         : "Xi'an Jiaotong University"
+  bio              : "机械工程硕士研究生"
+  location         : "陕西 西安"
+  employer         : "西安交通大学"
   uri              : # URL
   email            : "2716191411@qq.com"
 

@@ -10,12 +10,11 @@ redirect_from:
 # 简介
 你好，欢迎来到我的个人网站！我是**熊杰**，西安交通大学机械工程专业硕士研究生，现就读于[现代设计及轴承转子系统教育部重点实验室](https://mec.xjtu.edu.cn/)，师从李响教授（国家级青年人才）。我的研究专注于**具身智能**、**动态视觉信号处理**和**机械故障诊断**。
 
-
 # 研究领域
 
 **动态视觉信号处理**：基于事件相机的机械装备微振动非接触式测量
 
-**机器人系统设计**：多自由度机械臂、全向移动底盘、变形机构等复杂机械系统；机器人控制与仿真
+**机器人系统设计**：多自由度机械臂、变形机构、全向移动底盘等机械系统；机器人控制与仿真
 
 **嵌入式开发**：基于ROS2和强化学习的机器人控制系统，开发机械臂对动态视觉测振的辅助功能
 
@@ -23,7 +22,6 @@ redirect_from:
 
 
 # 项目经历
-
 ## **基于事件相机的机械装备微振动非接触式测量系统**  
 *2024.09 - 至今*  
 - 提出针对DVS的时空维度密度聚类算法，制定动态视觉测振标准方法，可稳定提取2~300Hz频段内振动特征。
@@ -45,26 +43,26 @@ redirect_from:
 - **2023赛季**（本科毕业设计）：针对发射机构反作用力大、限位精度要求高的问题提出两个核心创新点：拉长加速行程和加速中限位，进行相应理论分析，并设计三摩擦带发射机构。使用Simulink建立弹丸空中运动的物理模型并进行弹道轨迹仿真。
 - **2024赛季**（技术顾问）：帮助对本科毕业设计的三摩擦带发射机构进行迭代，形成二级六摩擦轮加速机构，解决了原机构发热、定位不准确、加工装配难度高的问题。
 
-## **团队经历**  
+# 团队经历
 *2021.09 - 2022.08*  
 - 西安交通大学笃行RoboMaster机器人队2022届队长
 - 牵头建立"西安联盟"交流组织
 
-# 生活片段
 
+# 生活片段
 <!-- p1占一行 -->
 <div style="text-align: center; margin: 20px 0;">
-  <img src="/images/p1.png" alt="生活片段1" style="width: 600px; height: 300px; object-fit: cover; border-radius: 8px;">
+  <img src="/images/p1.png" alt="生活片段1" style="width: 600px; height: 265px; object-fit: cover; border-radius: 8px;">
 </div>
 
 <!-- p2占一行 -->
 <div style="text-align: center; margin: 20px 0;">
-  <img src="/images/p2.png" alt="生活片段2" style="width: 600px; height: 300px; object-fit: cover; border-radius: 8px;">
+  <img src="/images/p2.png" alt="生活片段2" style="width: 600px; height: 265px; object-fit: cover; border-radius: 8px;">
 </div>
 
 <!-- p3占一行 -->
 <div style="text-align: center; margin: 20px 0;">
-  <img src="/images/p3.png" alt="生活片段3" style="width: 600px; height: 400px; object-fit: cover; border-radius: 8px;">
+  <img src="/images/p3.png" alt="生活片段3" style="width: 600px; height: 350px; object-fit: cover; border-radius: 8px;">
 </div>
 
 <!-- p4 p5占一行 -->
