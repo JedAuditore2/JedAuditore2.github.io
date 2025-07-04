@@ -54,17 +54,17 @@ redirect_from:
 
 <!-- p1占一行 -->
 <div style="text-align: center; margin: 20px 0;">
-  <img src="/images/p1.png" alt="生活片段1" style="width: 400px; height: 300px; object-fit: cover; border-radius: 8px;">
+  <img src="/images/p1.png" alt="生活片段1" style="width: 600px; height: 300px; object-fit: cover; border-radius: 8px;">
 </div>
 
 <!-- p2占一行 -->
 <div style="text-align: center; margin: 20px 0;">
-  <img src="/images/p2.png" alt="生活片段2" style="width: 400px; height: 300px; object-fit: cover; border-radius: 8px;">
+  <img src="/images/p2.png" alt="生活片段2" style="width: 600px; height: 300px; object-fit: cover; border-radius: 8px;">
 </div>
 
 <!-- p3占一行 -->
 <div style="text-align: center; margin: 20px 0;">
-  <img src="/images/p3.png" alt="生活片段3" style="width: 400px; height: 300px; object-fit: cover; border-radius: 8px;">
+  <img src="/images/p3.png" alt="生活片段3" style="width: 600px; height: 400px; object-fit: cover; border-radius: 8px;">
 </div>
 
 <!-- p4 p5占一行 -->
