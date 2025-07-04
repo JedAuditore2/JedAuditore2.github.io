@@ -1,0 +1,177 @@
+/* ==========================================================================
+   RED THEME
+   ========================================================================== */
+
+/* Color codes used for the red theme */
+$red-primary                : #ff0000;        /* Primary red background */
+$red-secondary              : #cc0000;        /* Secondary red (darker) */
+$red-tertiary               : #990000;        /* Tertiary red (darkest) */
+$red-light                  : #ff3333;        /* Light red for accents */
+$red-lighter                : #ff6666;        /* Lighter red for hover states */
+
+/* Text colors for readability on red background */
+$white-text                 : #ffffff;        /* White text for contrast */
+$light-text                 : #f0f0f0;        /* Light gray text */
+$yellow-accent              : #ffff00;        /* Yellow for links (good contrast on red) */
+$cyan-accent                : #00ffff;        /* Cyan for visited links */
+
+/* Color codes used for the site */
+$danger-color               : #ff6b6b;
+$info-color                 : #74c0fc;
+$notice-color               : #ffd43b;
+$success-color              : #51cf66;
+$warning-color              : #ffd43b;
+
+/* Other basic settings for the template */
+$border-radius              : 4px;
+$box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.3);
+$global-transition          : all 0.2s ease-in-out;
+$masthead-height            : 70px;
+$navicon-width              : 28px;
+$navicon-height             : 4px;
+$sidebar-link-max-width     : 250px;
+$sidebar-screen-min-width   : 1024px;
+
+/* Red theme CSS variables */
+:root[data-theme="red"], 
+html[data-theme="red"] {
+    --global-base-color                 : #{$red-primary};
+    --global-bg-color                   : #{$red-primary};
+    --global-footer-bg-color            : #{$red-secondary};
+    --global-border-color               : #{$red-light};
+    --global-dark-border-color          : #{$red-tertiary};
+    --global-code-background-color      : #{$red-tertiary};
+    --global-code-text-color            : #{$white-text};
+    --global-fig-caption-color          : #{$light-text};
+    --global-link-color                 : #{$yellow-accent};
+    --global-link-color-hover           : #{$red-lighter};
+    --global-link-color-visited         : #{$cyan-accent};
+    --global-masthead-link-color        : #{$white-text};
+    --global-masthead-link-color-hover  : #{$red-lighter};
+    --global-text-color                 : #{$white-text};
+    --global-text-color-light           : #{$light-text};
+    --global-thead-color                : #{$red-secondary};
+}
+
+/* Force red background on all elements with maximum specificity */
+html[data-theme="red"] body,
+html[data-theme="red"] {
+    background-color: #{$red-primary} !important;
+    color: #{$white-text} !important;
+}
+
+/* Specific red styling for major layout elements */
+html[data-theme="red"] .page__footer {
+    background-color: #{$red-secondary} !important;
+    color: #{$white-text} !important;
+}
+
+html[data-theme="red"] .masthead {
+    background-color: #{$red-secondary} !important;
+    color: #{$white-text} !important;
+}
+
+html[data-theme="red"] .sidebar {
+    background-color: #{$red-secondary} !important;
+    color: #{$white-text} !important;
+}
+
+html[data-theme="red"] .page__content {
+    background-color: #{$red-primary} !important;
+    color: #{$white-text} !important;
+}
+
+/* Make sure all text is visible on red background */
+html[data-theme="red"] body,
+html[data-theme="red"] .page__content,
+html[data-theme="red"] h1, 
+html[data-theme="red"] h2, 
+html[data-theme="red"] h3, 
+html[data-theme="red"] h4, 
+html[data-theme="red"] h5, 
+html[data-theme="red"] h6,
+html[data-theme="red"] p,
+html[data-theme="red"] li,
+html[data-theme="red"] .author__bio,
+html[data-theme="red"] .author__name,
+html[data-theme="red"] .archive__item-title,
+html[data-theme="red"] .page__title {
+    color: #{$white-text} !important;
+}
+
+/* Link styling for red theme */
+html[data-theme="red"] a {
+    color: #{$yellow-accent} !important;
+    text-decoration: underline;
+}
+
+html[data-theme="red"] a:hover {
+    color: #{$cyan-accent} !important;
+}
+
+html[data-theme="red"] a:visited {
+    color: #{$cyan-accent} !important;
+}
+
+/* Navigation and masthead links */
+html[data-theme="red"] .masthead__inner-wrap a,
+html[data-theme="red"] .site-title,
+html[data-theme="red"] .greedy-nav a {
+    color: #{$white-text} !important;
+}
+
+html[data-theme="red"] .masthead__inner-wrap a:hover,
+html[data-theme="red"] .greedy-nav a:hover {
+    color: #{$yellow-accent} !important;
+}
+
+/* Global override to ensure red theme dominates */
+html[data-theme="red"] * {
+    background-color: inherit !important;
+}
+
+html[data-theme="red"] body * {
+    color: #{$white-text} !important;
+}
+
+/* Special handling for code blocks */
+html[data-theme="red"] pre,
+html[data-theme="red"] code {
+    background-color: #{$red-tertiary} !important;
+    color: #{$white-text} !important;
+    border: 1px solid #{$red-light} !important;
+}
+
+/* Additional global overrides for maximum specificity */
+html[data-theme="red"] body,
+html[data-theme="red"] .page,
+html[data-theme="red"] .page__wrapper,
+html[data-theme="red"] main,
+html[data-theme="red"] .initial-content,
+html[data-theme="red"] .layout--single {
+    background-color: #{$red-primary} !important;
+    color: #{$white-text} !important;
+}
+
+/* Debug marker for theme identification */
+html[data-theme="red"]:before {
+    content: "RED THEME ACTIVE - DEBUG";
+    position: fixed;
+    top: 0;
+    right: 0;
+    background: yellow;
+    color: red;
+    padding: 5px;
+    font-weight: bold;
+    z-index: 9999;
+    font-size: 12px;
+}
+
+/* Force body background regardless of other CSS */
+body {
+    background: #{$red-primary} !important;
+}
+
+html[data-theme="red"] {
+    background: #{$red-primary} !important;
+}

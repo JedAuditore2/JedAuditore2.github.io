@@ -10,37 +10,40 @@ $(document).ready(function () {
 
   // Set the theme on page load or when explicitly called
   var setTheme = function (theme) {
-    const use_theme =
-      theme ||
-      localStorage.getItem("theme") ||
-      $("html").attr("data-theme") ||
-      browserPref;
+    // Force red theme if no specific theme is provided
+    const use_theme = theme || "red";
 
     if (use_theme === "dark") {
       $("html").attr("data-theme", "dark");
+      $("#theme-icon").removeClass("fa-sun").addClass("fa-moon");
+    } else if (use_theme === "red") {
+      $("html").attr("data-theme", "red");
       $("#theme-icon").removeClass("fa-sun").addClass("fa-moon");
     } else if (use_theme === "light") {
       $("html").removeAttr("data-theme");
       $("#theme-icon").removeClass("fa-moon").addClass("fa-sun");
     }
+    
+    // Always save the current theme
+    localStorage.setItem("theme", use_theme);
   };
 
-  setTheme();
+  // Force red theme on page load
+  setTheme("red");
 
-  // if user hasn't chosen a theme, follow OS changes
-  window
-    .matchMedia('(prefers-color-scheme: dark)')
-    .addEventListener("change", (e) => {
-      if (!localStorage.getItem("theme")) {
-        setTheme(e.matches ? "dark" : "light");
-      }
-    });
+  // Disable OS theme changes - always use our custom theme by default
+  // window
+  //   .matchMedia('(prefers-color-scheme: dark)')
+  //   .addEventListener("change", (e) => {
+  //     if (!localStorage.getItem("theme")) {
+  //       setTheme(e.matches ? "dark" : "light");
+  //     }
+  //   });
 
-  // Toggle the theme manually
+  // Toggle the theme manually - simple switch between red and light
   var toggleTheme = function () {
     const current_theme = $("html").attr("data-theme");
-    const new_theme = current_theme === "dark" ? "light" : "dark";
-    localStorage.setItem("theme", new_theme);
+    const new_theme = (current_theme === "red") ? "light" : "red";
     setTheme(new_theme);
   };
 

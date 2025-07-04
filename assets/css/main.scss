@@ -14,6 +14,7 @@
     "themes",
     "theme/default",
     "theme/dark",
+    "theme/red",
 
     "include/mixins",
     "vendor/susy/susy",
@@ -41,3 +42,31 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+/* FORCE RED BACKGROUND - GLOBAL OVERRIDE */
+html, body {
+    background-color: #ff0000 !important;
+    color: #ffffff !important;
+}
+
+.page__footer {
+    background-color: #cc0000 !important;
+}
+
+.masthead {
+    background-color: #cc0000 !important;
+}
+
+#main {
+    background-color: #ff0000 !important;
+}
+
+.page__content {
+    background-color: #ff0000 !important;
+    color: #ffffff !important;
+}
+
+/* Force all text to be white */
+h1, h2, h3, h4, h5, h6, p, span, div, a {
+    color: #ffffff !important;
+}
