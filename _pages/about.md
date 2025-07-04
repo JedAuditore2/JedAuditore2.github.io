@@ -47,9 +47,7 @@ redirect_from:
 - 创新财务管理和进度管理方法，显著提高团队研发效率
 
 
-# 我的生活
-
-除了学术研究和技术开发，我也热衷于记录生活中的美好瞬间。以下是我生活的一些片段：
+# 生活片段
 
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin: 20px 0;">
   <img src="/images/l1.jpg" alt="生活片段1" style="width: 100%; height: 120px; object-fit: cover; border-radius: 8px;">
@@ -65,20 +63,19 @@ redirect_from:
 </div>
 
 <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 12px; margin: 15px 0;">
-  <img src="/images/l8.jpg" alt="生活片段8" style="width: 100%; height: 100px; object-fit: cover; border-radius: 8px;">
-  <img src="/images/l9.jpg" alt="生活片段9" style="width: 100%; height: 100px; object-fit: cover; border-radius: 8px;">
-  <img src="/images/l10.jpg" alt="生活片段10" style="width: 100%; height: 100px; object-fit: cover; border-radius: 8px;">
+  <img src="/images/l8.jpg" alt="生活片段8" style="width: 100%; height: 150px; object-fit: cover; border-radius: 8px;">
+  <img src="/images/l9.jpg" alt="生活片段9" style="width: 100%; height: 150px; object-fit: cover; border-radius: 8px;">
+  <img src="/images/l10.jpg" alt="生活片段10" style="width: 100%; height: 150px; object-fit: cover; border-radius: 8px;">
 </div>
 
 <div style="display: flex; gap: 10px; margin: 15px 0; justify-content: space-between;">
-  <img src="/images/l11.jpg" alt="生活片段11" style="width: 23%; height: 90px; object-fit: cover; border-radius: 8px;">
-  <img src="/images/l12.jpg" alt="生活片段12" style="width: 23%; height: 90px; object-fit: cover; border-radius: 8px;">
-  <img src="/images/l13.jpg" alt="生活片段13" style="width: 23%; height: 90px; object-fit: cover; border-radius: 8px;">
-  <img src="/images/l14.jpg" alt="生活片段14" style="width: 23%; height: 90px; object-fit: cover; border-radius: 8px;">
+  <img src="/images/l11.jpg" alt="生活片段11" style="width: 23%; aspect-ratio: 1; object-fit: cover; border-radius: 8px;">
+  <img src="/images/l12.jpg" alt="生活片段12" style="width: 23%; aspect-ratio: 1; object-fit: cover; border-radius: 8px;">
+  <img src="/images/l13.jpg" alt="生活片段13" style="width: 23%; aspect-ratio: 1; object-fit: cover; border-radius: 8px;">
+  <img src="/images/l14.jpg" alt="生活片段14" style="width: 23%; aspect-ratio: 1; object-fit: cover; border-radius: 8px;">
 </div>
 
 <div style="text-align: center; margin: 20px 0;">
   <img src="/images/l15.jpg" alt="生活片段15" style="width: 300px; height: 200px; object-fit: cover; border-radius: 8px;">
 </div>
 
-生活不只有代码和机械设计，还有这些美好的时光。我相信工作与生活的平衡能够带来更好的创造力和灵感。
