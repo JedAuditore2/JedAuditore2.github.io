@@ -52,33 +52,43 @@ redirect_from:
 
 # 生活片段
 
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px; margin: 20px 0;">
-  <img src="/images/l1.jpg" alt="生活片段1" style="width: 100%; height: 120px; object-fit: cover; border-radius: 8px;">
-  <img src="/images/l2.jpg" alt="生活片段2" style="width: 100%; height: 120px; object-fit: cover; border-radius: 8px;">
-  <img src="/images/l3.jpg" alt="生活片段3" style="width: 100%; height: 120px; object-fit: cover; border-radius: 8px;">
-  <img src="/images/l4.jpg" alt="生活片段4" style="width: 100%; height: 120px; object-fit: cover; border-radius: 8px;">
-</div>
-
-<div style="display: flex; gap: 15px; margin: 15px 0; justify-content: center;">
-  <img src="/images/l5.jpg" alt="生活片段5" style="width: 180px; height: 140px; object-fit: cover; border-radius: 8px;">
-  <img src="/images/l6.jpg" alt="生活片段6" style="width: 180px; height: 140px; object-fit: cover; border-radius: 8px;">
-  <img src="/images/l7.jpg" alt="生活片段7" style="width: 180px; height: 140px; object-fit: cover; border-radius: 8px;">
-</div>
-
-<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 12px; margin: 15px 0;">
-  <img src="/images/l8.jpg" alt="生活片段8" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;">
-  <img src="/images/l9.jpg" alt="生活片段9" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;">
-  <img src="/images/l10.jpg" alt="生活片段10" style="width: 100%; height: 200px; object-fit: cover; border-radius: 8px;">
-</div>
-
-<div style="display: flex; gap: 10px; margin: 15px 0; justify-content: space-between;">
-  <img src="/images/l11.jpg" alt="生活片段11" style="width: 23%; aspect-ratio: 1; object-fit: cover; border-radius: 8px;">
-  <img src="/images/l12.jpg" alt="生活片段12" style="width: 23%; aspect-ratio: 1; object-fit: cover; border-radius: 8px;">
-  <img src="/images/l13.jpg" alt="生活片段13" style="width: 23%; aspect-ratio: 1; object-fit: cover; border-radius: 8px;">
-  <img src="/images/l14.jpg" alt="生活片段14" style="width: 23%; aspect-ratio: 1; object-fit: cover; border-radius: 8px;">
-</div>
-
+<!-- p1占一行 -->
 <div style="text-align: center; margin: 20px 0;">
-  <img src="/images/l15.jpg" alt="生活片段15" style="width: 300px; height: 200px; object-fit: cover; border-radius: 8px;">
+  <img src="/images/p1.png" alt="生活片段1" style="width: 400px; height: 300px; object-fit: cover; border-radius: 8px;">
+</div>
+
+<!-- p2占一行 -->
+<div style="text-align: center; margin: 20px 0;">
+  <img src="/images/p2.png" alt="生活片段2" style="width: 400px; height: 300px; object-fit: cover; border-radius: 8px;">
+</div>
+
+<!-- p3占一行 -->
+<div style="text-align: center; margin: 20px 0;">
+  <img src="/images/p3.png" alt="生活片段3" style="width: 400px; height: 300px; object-fit: cover; border-radius: 8px;">
+</div>
+
+<!-- p4 p5占一行 -->
+<div style="display: flex; gap: 20px; margin: 20px 0; justify-content: center;">
+  <img src="/images/p4.png" alt="生活片段4" style="width: 280px; height: 210px; object-fit: cover; border-radius: 8px;">
+  <img src="/images/p5.png" alt="生活片段5" style="width: 280px; height: 210px; object-fit: cover; border-radius: 8px;">
+</div>
+
+<!-- p6 p7 p8占一行 -->
+<div style="display: flex; gap: 15px; margin: 20px 0; justify-content: center;">
+  <img src="/images/p6.png" alt="生活片段6" style="width: 180px; height: 135px; object-fit: cover; border-radius: 8px;">
+  <img src="/images/p7.png" alt="生活片段7" style="width: 180px; height: 135px; object-fit: cover; border-radius: 8px;">
+  <img src="/images/p8.png" alt="生活片段8" style="width: 180px; height: 135px; object-fit: cover; border-radius: 8px;">
+</div>
+
+<!-- p9 p10 p11占一行 -->
+<div style="display: flex; gap: 15px; margin: 20px 0; justify-content: center;">
+  <img src="/images/p9.png" alt="生活片段9" style="width: 180px; height: 135px; object-fit: cover; border-radius: 8px;">
+  <img src="/images/p10.png" alt="生活片段10" style="width: 180px; height: 135px; object-fit: cover; border-radius: 8px;">
+  <img src="/images/p11.png" alt="生活片段11" style="width: 180px; height: 135px; object-fit: cover; border-radius: 8px;">
+</div>
+
+<!-- p12占一行 -->
+<div style="text-align: center; margin: 20px 0;">
+  <img src="/images/p12.png" alt="生活片段12" style="width: 400px; height: 300px; object-fit: cover; border-radius: 8px;">
 </div>
 
