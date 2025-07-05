@@ -15,7 +15,12 @@ author_profile: true
 ### 2020年：英雄机器人底盘设计
 - 学习CAE/CAM软件使用和机械结构设计知识
 - 负责英雄机器人底盘设计，采用多自由度连杆机构的麦克纳姆轮底盘
-- 提升机器人在复杂地形中的适应能力和运动表现
+
+<p align="center">
+  <img src="../images/202008.jpg" width="48%" style="display: inline-block;">
+  <br>
+  <em style="display: inline-block; width: 48%;">这种底盘设计让机器人有良好的地形适应性能。</em>
+</p>
 
 ### 2021年：机械组组长
 - 制作培训课程，帮助新成员入门机械结构设计

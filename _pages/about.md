@@ -65,6 +65,16 @@ redirect_from:
   <img src="/images/p3.png" alt="生活片段3" style="width: 600px; height: 340px; object-fit: cover; border-radius: 8px;">
 </div>
 
+<!-- p3占一行 -->
+<div style="text-align: center; margin: 20px 0;">
+  <img src="/images/2024_05.png" alt="生活片段3" style="width: 600px; height: 250px; object-fit: cover; border-radius: 8px;">
+</div>
+
+<!-- p3占一行 -->
+<div style="text-align: center; margin: 20px 0;">
+  <img src="/images/2024_08.png" alt="生活片段3" style="width: 600px; height: 250px; object-fit: cover; border-radius: 8px;">
+</div>
+
 <!-- p4 p5占一行 -->
 <div style="display: flex; gap: 20px; margin: 20px 0; justify-content: center;">
   <img src="/images/p4.png" alt="生活片段4" style="width: 280px; height: 180px; object-fit: cover; border-radius: 8px;">
