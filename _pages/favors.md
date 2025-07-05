@@ -104,11 +104,11 @@ author_profile: true
 很荣幸能加入西安交通大学**笃行**机器人队，在这里收获了珍贵的友谊，也成长为一名优秀的机械工程师。希望**笃行**在未来不断发展壮大。
 
 <p align="center">
-  <img src="../images/l2.jpg" style="width: 68%; height: 270px; object-fit: cover; border-radius: 8px;">
-  <img src="../images/2021052.jpg" style="width: 28%; height: 270px; object-fit: cover; border-radius: 8px;">
+  <img src="../images/l2.jpg" style="width: 76%; height: 270px; object-fit: cover; border-radius: 8px;">
+  <img src="../images/2021052.jpg" style="width: 20%; height: 270px; object-fit: cover; border-radius: 8px;">
   <br>
-  <em style="display: inline-block; width: 68%;">2021届分区赛现场</em>
-  <em style="display: inline-block; width: 28%;">分区赛遗憾淘汰</em>
+  <em style="display: inline-block; width: 76%;">2021届分区赛现场</em>
+  <em style="display: inline-block; width: 20%;">分区赛遗憾淘汰</em>
 </p>
 
 <p align="center">
