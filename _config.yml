@@ -7,12 +7,12 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "zh-CN"
 site_theme               : "dark"
-title                    : "主页"
+title                    : "熊杰的个人主页"
 title_separator          : "-"
-name                     : &name "Jie Xiong"
-description              : &description "personal description"
+name                     : &name "熊杰"
+description              : &description "机械工程硕士研究生，西安交通大学"
 url                      : https://jedauditore2.github.io/
  # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
