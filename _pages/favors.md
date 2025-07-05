@@ -29,8 +29,8 @@ author_profile: true
 - 赛季总结：成绩不理想，机器人稳定性不足，为后续发展积累了宝贵经验
 
 <p align="center">
-  <img src="../images/202011.jpg" width="48%" style="display: inline-block;">
-  <img src="../images/202105.jpg" width="48%" style="display: inline-block;">
+  <img src="../images/202011.jpg" style="width: 48%; height: 300px; object-fit: cover; border-radius: 8px;">
+  <img src="../images/202105.jpg" style="width: 48%; height: 300px; object-fit: cover; border-radius: 8px;">
   <br>
   <em style="display: inline-block; width: 48%;">和RoboCon队伍合办校内机器人比赛，检验培训成果</em>
   <em style="display: inline-block; width: 48%;">工程机器人（左）的赛场表现</em>
@@ -43,7 +43,7 @@ author_profile: true
 - 专注基础功能稳定性，重点突破强势性能
 
 <p align="center">
-  <img src="../images/p1.jpg" width="90%" style="display: inline-block;">
+  <img src="../images/p1.png" width="90%" style="display: inline-block;">
   <br>
   <em style="display: inline-block; width: 90%;">笃行2022届团队</em>
 </p>
