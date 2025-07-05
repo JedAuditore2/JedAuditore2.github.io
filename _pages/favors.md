@@ -19,7 +19,7 @@ author_profile: true
 <p align="center">
   <img src="../images/202008.jpg" width="48%" style="display: inline-block;">
   <br>
-  <em style="display: inline-block; width: 48%;">这种底盘设计让机器人有良好的地形适应性能。</em>
+  <em style="display: inline-block; width: 48%;">2020届英雄机器人机械研发成员</em>
 </p>
 
 ### 2021年：机械组组长
@@ -29,9 +29,11 @@ author_profile: true
 - 赛季总结：成绩不理想，机器人稳定性不足，为后续发展积累了宝贵经验
 
 <p align="center">
-  <img src="../images/202008.jpg" width="48%" style="display: inline-block;">
+  <img src="../images/202011.jpg" width="48%" style="display: inline-block;">
+  <img src="../images/202105.jpg" width="48%" style="display: inline-block;">
   <br>
-  <em style="display: inline-block; width: 48%;">这种底盘设计让机器人有良好的地形适应性能。</em>
+  <em style="display: inline-block; width: 48%;">和RoboCon队伍合办校内机器人比赛，检验培训成果</em>
+  <em style="display: inline-block; width: 48%;">工程机器人（左）的赛场表现</em>
 </p>
 
 ### 2022年：队长
@@ -39,6 +41,12 @@ author_profile: true
 - 重新组建团队，招募充满激情，实力过硬的新成员
 - 确立明确目标：进入全国前8强
 - 专注基础功能稳定性，重点突破强势性能
+
+<p align="center">
+  <img src="../images/p1.jpg" width="90%" style="display: inline-block;">
+  <br>
+  <em style="display: inline-block; width: 90%;">笃行2022届团队</em>
+</p>
 
 团队管理优化：
 - 简化流程，减少不必要的报告和会议
@@ -53,8 +61,21 @@ author_profile: true
 - 设计模块化镖体和滚珠丝杠控制的发射架
 - 命中率达到60%以上，在全国实战数据中排名第4
 
-成果：
-- 重新获得国赛资格，走出低谷期
+<p align="center">
+  <img src="../images/summer.jpg" width="48%" style="display: inline-block;">
+  <img src="../images/2022062.jpg" width="48%" style="display: inline-block;">
+  <br>
+  <em style="display: inline-block; width: 48%;">我在操场上测试飞镖</em>
+  <em style="display: inline-block; width: 48%;">我们的飞镖命中瞬间</em>
+</p>
+
+- 经过大半个赛季的努力，我们重新获得国赛资格，走出低谷期
+
+<p align="center">
+  <img src="../images/2022063.jpg" width="50%" style="display: inline-block;">
+  <br>
+  <em style="display: inline-block; width: 50%;">赢下这场比赛后，我们拿到了国赛的门票</em>
+</p>
 
 ### 2023年：顾问
 - 设计多自由度机械臂和大行程变形机构为核心的工程机器人

@@ -53,26 +53,36 @@ redirect_from:
 <!-- p1占一行 -->
 <div style="text-align: center; margin: 20px 0;">
   <img src="/images/p1.png" alt="生活片段1" style="width: 600px; height: 240px; object-fit: cover; border-radius: 8px;">
+  <br>
+  <em style="display: inline-block; width: 48%;">笃行机器人队2022届队员</em>
 </div>
 
 <!-- p2占一行 -->
 <div style="text-align: center; margin: 20px 0;">
   <img src="/images/p2.png" alt="生活片段2" style="width: 600px; height: 250px; object-fit: cover; border-radius: 8px;">
-</div>
-
-<!-- p3占一行 -->
-<div style="text-align: center; margin: 20px 0;">
-  <img src="/images/p3.png" alt="生活片段3" style="width: 600px; height: 340px; object-fit: cover; border-radius: 8px;">
+  <br>
+  <em style="display: inline-block; width: 48%;">笃行机器人队2023全国赛</em>
 </div>
 
 <!-- p3占一行 -->
 <div style="text-align: center; margin: 20px 0;">
   <img src="/images/2024_05.jpg" alt="生活片段3" style="width: 600px; height: 250px; object-fit: cover; border-radius: 8px;">
+  <br>
+  <em style="display: inline-block; width: 48%;">笃行机器人队2023中部分区赛</em>
 </div>
 
 <!-- p3占一行 -->
 <div style="text-align: center; margin: 20px 0;">
   <img src="/images/2024_08.jpg" alt="生活片段3" style="width: 600px; height: 250px; object-fit: cover; border-radius: 8px;">
+  <br>
+  <em style="display: inline-block; width: 48%;">笃行机器人队2024国赛</em>
+</div>
+
+<!-- p3占一行 -->
+<div style="text-align: center; margin: 20px 0;">
+  <img src="/images/p3.png" alt="生活片段3" style="width: 600px; height: 340px; object-fit: cover; border-radius: 8px;">
+  <br>
+  <em style="display: inline-block; width: 48%;">“西安联盟”交流活动</em>
 </div>
 
 <!-- p4 p5占一行 -->
