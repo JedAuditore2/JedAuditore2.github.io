@@ -17,7 +17,7 @@ author_profile: true
 - 负责英雄机器人底盘设计，采用多自由度连杆机构的麦克纳姆轮底盘
 
 <p align="center">
-  <img src="../images/202008.jpg" width="48%" style="display: inline-block;">
+  <img src="../images/202008.jpg" style="width: 48%; height: 300px; object-fit: cover; border-radius: 8px;">
   <br>
   <em style="display: inline-block; width: 48%;">2020届英雄机器人机械研发成员</em>
 </p>
@@ -43,7 +43,7 @@ author_profile: true
 - 专注基础功能稳定性，重点突破强势性能
 
 <p align="center">
-  <img src="../images/p1.png" width="90%" style="display: inline-block;">
+  <img src="../images/p1.png" style="width: 90%; height: 300px; object-fit: cover; border-radius: 8px;">
   <br>
   <em style="display: inline-block; width: 90%;">笃行2022届团队</em>
 </p>
@@ -62,8 +62,8 @@ author_profile: true
 - 命中率达到60%以上，在全国实战数据中排名第4
 
 <p align="center">
-  <img src="../images/summer.jpg" width="48%" style="display: inline-block;">
-  <img src="../images/2022062.jpg" width="48%" style="display: inline-block;">
+  <img src="../images/summer.jpg" style="width: 48%; height: 300px; object-fit: cover; border-radius: 8px;">
+  <img src="../images/2022062.jpg" style="width: 48%; height: 300px; object-fit: cover; border-radius: 8px;">
   <br>
   <em style="display: inline-block; width: 48%;">我在操场上测试飞镖</em>
   <em style="display: inline-block; width: 48%;">我们的飞镖命中瞬间</em>
@@ -72,7 +72,7 @@ author_profile: true
 - 经过大半个赛季的努力，我们重新获得国赛资格，走出低谷期
 
 <p align="center">
-  <img src="../images/2022063.jpg" width="50%" style="display: inline-block;">
+  <img src="../images/2022063.jpg" style="width: 50%; height: 300px; object-fit: cover; border-radius: 8px;">
   <br>
   <em style="display: inline-block; width: 50%;">赢下这场比赛后，我们拿到了国赛的门票</em>
 </p>
@@ -82,31 +82,54 @@ author_profile: true
 - 贯彻简洁高效的设计思路，表现出色
 - 成果：团队进入全国十六强，实现历史性突破
 
+<p align="center">
+  <img src="../images/p4.png" style="width: 48%; height: 300px; object-fit: cover; border-radius: 8px;">
+  <img src="../images/2022062.jpg" style="width: 48%; height: 300px; object-fit: cover; border-radius: 8px;">
+  <br>
+  <em style="display: inline-block; width: 48%;">2023届工程组成员</em>
+  <em style="display: inline-block; width: 48%;">机器人赛场表现</em>
+</p>
+
 ### 2024年：顾问
 - 为队员提供技术支持，协助赛季规划和创新项目研发
 - 成果：团队刷新历史记录，进入全国前12强
 
-<p align="center">
-  <img src="../images/First_design.jpg" width="48%" style="display: inline-block;">
-  <img src="../images/Robot_family.jpg" width="48%" style="display: inline-block;">
+<div style="text-align: center; margin: 20px 0;">
+  <img src="/images/2024_08.jpg" alt="生活片段3" style="width: 90%; height: 300px; object-fit: cover; border-radius: 8px;">
   <br>
-  <em style="display: inline-block; width: 48%;">我为步兵机器人系列设计的创新方案，展现了功能性与创造性的完美结合。</em>
-</p>
+  <em style="display: inline-block; width: 48%;">笃行2024届团队</em>
+</div>
 
 ## 我们团队的历史 - **笃行**
 很荣幸能加入西安交通大学**笃行**机器人队，在这里收获了珍贵的友谊，也成长为一名优秀的机械工程师。希望**笃行**在未来不断发展壮大。
 
 <p align="center">
-  <img src="../images/2023_04.jpg" width="48%" style="display: inline-block;">
-  <img src="../images/2023_08.jpg" width="48%" style="display: inline-block;">
+  <img src="../images/l2.jpg" style="width: 68%; height: 270px; object-fit: cover; border-radius: 8px;">
+  <img src="../images/2021052.jpg" style="width: 28%; height: 270px; object-fit: cover; border-radius: 8px;">
   <br>
-  <em style="display: inline-block; width: 48%;">Our team's first championship in history (April 2023).</em>
-  <em style="display: inline-block; width: 48%;">Returning to Shenzhen for the National Competition(August 2023).</em>
+  <em style="display: inline-block; width: 68%;">2021届分区赛现场</em>
+  <em style="display: inline-block; width: 28%;">分区赛遗憾淘汰</em>
 </p>
 
 <p align="center">
-  <img src="../images/2024_05.jpg" width="48%" style="display: inline-block;">
-  <img src="../images/2024_08.jpg" width="48%" style="display: inline-block;">
+  <img src="../images/p1.png" style="width: 68%; height: 220px; object-fit: cover; border-radius: 8px;">
+  <img src="../images/2022064.jpg" style="width: 28%; height: 220px; object-fit: cover; border-radius: 8px;">
   <br>
-  <em style="display: inline-block; width: 50%;">Achieving our team's best historical record - Top 12 (May 2024 - August 2024).</em>
+  <em style="display: inline-block; width: 68%;">2022届重回国赛</em>
+  <em style="display: inline-block; width: 28%;">2022分区赛操作间</em>
+</p>
+
+<p align="center">
+  <img src="../images/2023_04.jpg" style="width: 48%; height: 270px; object-fit: cover; border-radius: 8px;">
+  <img src="../images/2023_08.jpg" style="width: 48%; height: 270px; object-fit: cover; border-radius: 8px;">
+  <br>
+  <em style="display: inline-block; width: 48%;">2023届联盟赛冠军</em>
+  <em style="display: inline-block; width: 48%;">2023届全国16强</em>
+</p>
+
+<p align="center">
+  <img src="../images/2024_05.jpg" style="width: 48%; height: 270px; object-fit: cover; border-radius: 8px;">
+  <img src="../images/2024_08.jpg" style="width: 48%; height: 270px; object-fit: cover; border-radius: 8px;">
+  <br>
+  <em style="display: inline-block; width: 50%;">2024届取得全国12强</em>
 </p>
