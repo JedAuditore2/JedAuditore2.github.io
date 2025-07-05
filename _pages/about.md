@@ -67,12 +67,12 @@ redirect_from:
 
 <!-- p3占一行 -->
 <div style="text-align: center; margin: 20px 0;">
-  <img src="/images/2024_05.png" alt="生活片段3" style="width: 600px; height: 250px; object-fit: cover; border-radius: 8px;">
+  <img src="/images/2024_05.jpg" alt="生活片段3" style="width: 600px; height: 250px; object-fit: cover; border-radius: 8px;">
 </div>
 
 <!-- p3占一行 -->
 <div style="text-align: center; margin: 20px 0;">
-  <img src="/images/2024_08.png" alt="生活片段3" style="width: 600px; height: 250px; object-fit: cover; border-radius: 8px;">
+  <img src="/images/2024_08.jpg" alt="生活片段3" style="width: 600px; height: 250px; object-fit: cover; border-radius: 8px;">
 </div>
 
 <!-- p4 p5占一行 -->

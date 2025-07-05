@@ -28,6 +28,12 @@ author_profile: true
 - 设计带有滚轮的夹爪结构，用于快速获取和储存方块道具
 - 赛季总结：成绩不理想，机器人稳定性不足，为后续发展积累了宝贵经验
 
+<p align="center">
+  <img src="../images/202008.jpg" width="48%" style="display: inline-block;">
+  <br>
+  <em style="display: inline-block; width: 48%;">这种底盘设计让机器人有良好的地形适应性能。</em>
+</p>
+
 ### 2022年：队长
 队伍重建与目标制定：
 - 重新组建团队，招募充满激情，实力过硬的新成员
